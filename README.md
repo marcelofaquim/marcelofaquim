@@ -9,8 +9,12 @@
 
 <div>
   <a href="https://github.com/marcelofaquim">
-  <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=marcelofaquim&layout=compact&langs_count=16&theme=dark"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelofaquim&layout=compact&langs_count=16&theme=dark"/>  
 </div>
+
+![MarceloFaquim GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelofaquim&show_icons=true&theme=dark)
+    
+<!--Skill Linguagens-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,6 +26,17 @@
   <img align="center" alt="Marcelo-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Marcelo-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
+
+  ##
+
+   <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  </div>
 
   ##
 
