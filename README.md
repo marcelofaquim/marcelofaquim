@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá ! Eu sou o Marcelo Faquim
 
-<!--
-**marcelofaquim/marcelofaquim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje eu estou procurando migrar para area da tecnologia
+- 🌱 Estudante de desenvolvimento fullstack (node.js, react, typescript), Angular e linguagem C++
+- 👯👨🏾‍🎓Formado em: Engenharia de software, Engenharia de Requisitos, Power Apps, Tecnico em informatica e Linguagem C
+- 📚 Conhecimento em: Front-end (html, css, javascript, bootstrap, react, node.js)
+- 📫 contate-me: marcelofaquim0@gmail.com
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/marcelofaquim">
+  <img height="180em" src"https://github-readme-stats.vercel.app/api?username=marcelofaquim&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/> 
+  <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=marcelofaquim&layout=compact&langs_count=16&theme=dark"/>  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
